@@ -1,5 +1,4 @@
 # PanelX
-Python+QT5 panel
 
 A Pyqt5 panel that shows opened windows. 
 Written with less than 50 lines of code for Linux.
