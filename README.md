@@ -16,7 +16,7 @@ This is free software, and you are welcome to redistribute it under GPL Version 
 
 Dependencies(packages may be different depending on distribution):
 
-    sudo apt-get install -y xcompmgr python3-pyqt5  python3-wnck python3-gi gir1.2-wnck-3.0
+    sudo apt-get install -y xcompmgr python3-pyqt5   python3-gi gir1.2-wnck-3.0
 
 
 To get transparency running do something like this on your startup scripts:
